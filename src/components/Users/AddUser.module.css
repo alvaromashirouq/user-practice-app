@@ -1,0 +1,11 @@
+.input {
+  @apply my-4 px-4 max-w-2xl;
+}
+
+.input label {
+  @apply block font-bold mb-2;
+}
+
+.input input {
+  @apply text-inherit block w-full border border-black mb-4;
+}
